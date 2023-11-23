@@ -3,7 +3,7 @@
 Todo List App
 
 Technologies used:
-Js
-Ejs
-Css
+Js,
+Ejs,
+Css,
 Mongodb
