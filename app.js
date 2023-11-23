@@ -1,5 +1,6 @@
 //jshint esversion:6
 
+const gi = require(`gitignore`);
 require("dotenv").config();
 const express = require("express");
 const bodyParser = require("body-parser");
