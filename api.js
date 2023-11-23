@@ -1,8 +1,8 @@
 // IMPORT
 const mongoose = require("mongoose");
 const Item = require("./models/items");
-const List = require("./models/list");
-const { getDate, getYear, getDay } = require("./date");
+// const List = require("./models/list");
+const { getDate } = require("./date");
 
 module.exports = function (app) {
   app.get("/", function (req, res) {
